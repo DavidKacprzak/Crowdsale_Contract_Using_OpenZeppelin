@@ -1,5 +1,5 @@
 # Crowdsale_Contract_Using_OpenZeppelin
-A crypto token crowdsale using smart contracts and the OpenZeppelin Solidity library. The crowdsale is capped at raising 300 ETH and will run for 24 weeks.
+A crypto token crowdsale using smart contracts and the OpenZeppelin Solidity library. The crowdsale in this example is capped at raising 25 ETH and will run for 5 minutes.
 
 This crowdsale contract manages the entire process allowing users to send ETH and get back PUP (PupperCoin). This contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
